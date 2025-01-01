@@ -1,0 +1,12 @@
+{
+  "vsmqtt.brokerProfiles": [
+    {
+      "name": "private petfeeder",
+      "host": "petfeeder.cloud.shiftr.io",
+      "port": 1883,
+      "username": "petfeeder",
+      "password": "2BV7aBDzdnEsfSMF",
+      "clientId": "vsmqtt_client_6f86"
+    }
+  ]
+}
