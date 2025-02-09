@@ -37,7 +37,7 @@ Explanation of the MQTT protocol, consisting of an MQTT Client publishing, MQTT 
 ### **Cloud Shiftr Io**
 <img src="https://github.com/user-attachments/assets/80d5727a-7884-4e89-b2be-e00a36b7a507" alt="Shiftr Io Dashboard" style="width: 600px; height: auto;">
 
-## **Installation and Setup**
+## **Setup**
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/your-username/beginner-web.git
