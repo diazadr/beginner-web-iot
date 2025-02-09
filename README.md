@@ -1,6 +1,6 @@
 # Beginner Web
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Certificate](https://img.shields.io/badge/Certificate-Available-red)](https://github.com/user-attachments/files/18722930/Sertifikat.pdf)
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Certificate](https://img.shields.io/badge/Certificate-Available-blue)](https://github.com/user-attachments/files/18722930/Sertifikat.pdf)
 
 Beginner project IoT using MQTT protocol with a PHP-based website. This project is a basic Internet of Things (IoT) training project organized by **Nusabot**.
 
