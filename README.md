@@ -1,4 +1,4 @@
-# Beginner Web
+# Beginner Web IoT
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Certificate](https://img.shields.io/badge/Certificate-Available-blue)](https://github.com/user-attachments/files/18722930/Sertifikat.pdf)
 
@@ -34,7 +34,7 @@ Explanation of the MQTT protocol, consisting of an MQTT Client publishing, MQTT 
 <img src="https://github.com/user-attachments/assets/bd386fc7-8aaa-420c-a008-a5c9dfb7512e" alt="Website Interface" style="width: 600px; height: auto;">
 <img src="https://github.com/user-attachments/assets/5589b00e-75a9-4123-8cdc-32317eb6e3f1" alt="Website Interface" style="width: 600px; height: auto;">
 
-### **Shiftr Io Dashboard**
+### **Cloud Shiftr Io**
 <img src="https://github.com/user-attachments/assets/80d5727a-7884-4e89-b2be-e00a36b7a507" alt="Shiftr Io Dashboard" style="width: 600px; height: auto;">
 
 ## **Installation and Setup**
